@@ -1,12 +1,13 @@
 ## Todo
-x [ ] Pair Trade
-x [ ] Create Buy/Sell Order
-x [ ] Deposit crypto to fund account
-x [ ] Withdraw crypto from account
-x [ ] Transfer crypto between accounts
-x [ ] Transfer crypto to external address
-x [ ] Create/Update/Delete Account
-x [ ] swap cryptos
+* [ ] Pair Trade
+* [ ] Create Buy/Sell Order
+* [ ] Deposit crypto to fund account
+* [ ] Withdraw crypto from account
+* [ ] Transfer crypto between accounts
+* [ ] Transfer crypto to external address
+* [ ] Create/Update/Delete Account
+* [ ] swap cryptos
+
 
 
 ## Pair Trade
